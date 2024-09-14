@@ -1,0 +1,15 @@
+current directory: /Users/hemanath/expense-maintenance/expenseMaintenance/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+/Users/hemanath/.rbenv/versions/2.7.0/bin/ruby -I /Users/hemanath/.rbenv/versions/2.7.0/lib/ruby/2.7.0 -r ./siteconf20240914-17501-jqzgvg.rb extconf.rb
+creating Makefile
+
+current directory: /Users/hemanath/expense-maintenance/expenseMaintenance/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR=" clean
+
+current directory: /Users/hemanath/expense-maintenance/expenseMaintenance/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR="
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/hemanath/expense-maintenance/expenseMaintenance/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20240914-17501-nvhec0
